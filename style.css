@@ -1,0 +1,185 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar{
+    background-color: #2c3e50
+}
+
+#a1{
+    color: white;
+}
+
+header {
+    color:white;
+    text-align: center;
+    
+}
+
+#hr1{
+
+    padding-left: 830px;
+
+}
+
+.hr1{
+  
+    width: 80px;
+    border: 1px solid white; 
+    opacity: 1;
+
+}
+
+.portfolio img {
+    
+    max-height: 300px;
+    border-radius: 5px ;
+} 
+
+
+#hr2{
+
+    padding-left: 600px;
+
+}
+
+
+.hr2{
+
+    width: 80px;
+    border: 1px solid black;  
+    opacity: 1;
+       
+
+}
+
+
+.about {
+    color: white;
+}
+
+#hr3{
+
+    padding-left: 610px;
+
+}
+
+
+
+.hr3{
+
+    width: 80px;
+    border: 1px solid white;  
+    opacity: 1;
+       
+
+}
+
+
+.justified-text {
+    text-align: justify;
+    text-justify: inter-word;
+    color: white;
+}
+
+
+#b1{
+    border: solid 1px white;
+    border-radius: 7px;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+
+.contact {
+    background-color: #f8f9fa;
+}
+
+
+#hr4{
+
+    padding-left: 610px;
+
+}
+
+
+
+.hr4{
+
+    width: 80px;
+    border: 1px solid black;  
+    opacity: 1;
+       
+
+}
+
+
+
+#f1{
+    
+    padding-left: 350px;
+}
+
+#b2{
+    border: 1px;
+    border-radius: 5px;
+    background-color: #00bfa5 ;
+    color: white;
+    padding: 10px 20px;
+
+}
+
+
+
+
+footer {
+    font-size: 14px;
+    background-color: #2c3e50;
+}
+
+footer i {
+    
+    font-size: 20px;
+    margin-right: 10px;
+    color: white;
+    padding: 10px;
+    border: solid 1px white;
+    border-radius: 50px;
+
+
+}
+
+#b3{
+
+    background-color: #292e33;
+    color: white;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
